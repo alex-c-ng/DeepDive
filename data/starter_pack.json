@@ -1,0 +1,387 @@
+{
+  "pack_name": "DeepDive Starter Pack",
+  "pack_version": 1,
+  "reference_note": "A curated offline starter set. The source links point to stable reference pages; accepted answers are the specific entries listed here, not an exhaustive list of every possible valid answer.",
+  "questions": [
+    {
+      "id": "african-countries",
+      "category": "Geography",
+      "subcategory": "Countries",
+      "prompt": "Name a country in Africa.",
+      "rule": "Name one sovereign country located in Africa. This starter pack verifies the entries listed below; other valid countries may not yet be included.",
+      "answers": [
+        {"name":"Lesotho","aliases":["Kingdom of Lesotho"],"fact":"Lesotho is completely surrounded by South Africa.","explanation":"It is an enclave country and the only independent state entirely above 1,000 metres in elevation.","obscurity":4,"source_url":"https://www.britannica.com/place/Lesotho"},
+        {"name":"Eswatini","aliases":["Swaziland"],"fact":"Eswatini is one of Africa's smallest countries.","explanation":"The country was called Swaziland until 2018; its two capitals are Mbabane and Lobamba.","obscurity":4,"source_url":"https://www.britannica.com/place/Eswatini"},
+        {"name":"Djibouti","aliases":["Republic of Djibouti"],"fact":"Djibouti sits beside the Bab el-Mandeb strait.","explanation":"The strait links the Red Sea with the Gulf of Aden, a major maritime route.","obscurity":4,"source_url":"https://www.britannica.com/place/Djibouti"},
+        {"name":"Benin","aliases":["Republic of Benin"],"fact":"The historic Kingdom of Dahomey was based in present-day Benin.","explanation":"Abomey, the former royal capital, is known for its preserved royal palaces.","obscurity":3,"source_url":"https://www.britannica.com/place/Benin"},
+        {"name":"Comoros","aliases":["Union of the Comoros"],"fact":"Comoros is an island country in the Mozambique Channel.","explanation":"Its islands lie between Madagascar and the African mainland in the Indian Ocean.","obscurity":5,"source_url":"https://www.britannica.com/place/Comoros"},
+        {"name":"Botswana","aliases":["Republic of Botswana"],"fact":"Botswana contains much of the Kalahari Desert.","explanation":"The Okavango Delta spreads into a vast inland wetland in the country's northwest.","obscurity":2,"source_url":"https://www.britannica.com/place/Botswana"},
+        {"name":"Eritrea","aliases":["State of Eritrea"],"fact":"Eritrea has a long coastline on the Red Sea.","explanation":"Its capital, Asmara, is noted for modernist architecture from the Italian colonial period.","obscurity":4,"source_url":"https://www.britannica.com/place/Eritrea"},
+        {"name":"Gabon","aliases":["Gabonese Republic"],"fact":"Large areas of Gabon are covered by tropical rainforest.","explanation":"The country is part of the Congo Basin, one of the world's major rainforest regions.","obscurity":3,"source_url":"https://www.britannica.com/place/Gabon"},
+        {"name":"Malawi","aliases":["Republic of Malawi"],"fact":"Lake Malawi is one of Africa's Great Lakes.","explanation":"The lake is famous for its exceptionally diverse cichlid fish.","obscurity":3,"source_url":"https://www.britannica.com/place/Malawi"},
+        {"name":"Togo","aliases":["Togolese Republic"],"fact":"Togo is a narrow country stretching north from the Gulf of Guinea.","explanation":"Its capital, Lomé, lies on the Atlantic coast near the border with Ghana.","obscurity":3,"source_url":"https://www.britannica.com/place/Togo"}
+      ]
+    },
+    {
+      "id": "world-islands",
+      "category": "Geography",
+      "subcategory": "Islands",
+      "prompt": "Name an island in the Mediterranean Sea.",
+      "rule": "Name a natural island in the Mediterranean. This pack accepts the listed islands and their aliases.",
+      "answers": [
+        {"name":"Sardinia","aliases":["Sardegna"],"fact":"Sardinia is home to thousands of ancient stone nuraghe.","explanation":"These distinctive Bronze Age tower structures are found across the Italian island.","obscurity":3,"source_url":"https://www.britannica.com/place/Sardinia-island-Italy"},
+        {"name":"Corsica","aliases":["Corse"],"fact":"Napoleon Bonaparte was born in Corsica.","explanation":"The island is French today, though it has a distinct Corsican language and culture.","obscurity":2,"source_url":"https://www.britannica.com/place/Corsica"},
+        {"name":"Crete","aliases":["Kriti"],"fact":"Crete was the center of the ancient Minoan civilization.","explanation":"The palace complex at Knossos is one of the best-known archaeological sites associated with the Minoans.","obscurity":2,"source_url":"https://www.britannica.com/place/Crete"},
+        {"name":"Rhodes","aliases":["Rodos"],"fact":"The Colossus of Rhodes was one of the Seven Wonders of the Ancient World.","explanation":"The enormous bronze statue once stood near the Greek island's ancient harbor.","obscurity":3,"source_url":"https://www.britannica.com/place/Rhodes-island-Greece"},
+        {"name":"Cyprus","aliases":["Republic of Cyprus"],"fact":"Cyprus is the third-largest island in the Mediterranean.","explanation":"The island lies at the eastern end of the sea, south of Turkey and west of Syria.","obscurity":2,"source_url":"https://www.britannica.com/place/Cyprus"},
+        {"name":"Malta","aliases":["Republic of Malta"],"fact":"Malta's megalithic temples are older than the Egyptian pyramids.","explanation":"Several prehistoric temple sites on the islands are UNESCO World Heritage sites.","obscurity":2,"source_url":"https://www.britannica.com/place/Malta"},
+        {"name":"Sicily","aliases":["Sicilia"],"fact":"Mount Etna, Europe's most active volcano, is on Sicily.","explanation":"The Italian island sits just off the toe of the Italian peninsula.","obscurity":1,"source_url":"https://www.britannica.com/place/Sicily"},
+        {"name":"Ibiza","aliases":["Eivissa"],"fact":"Ibiza is one of the Balearic Islands of Spain.","explanation":"Beyond its nightlife, the island has a protected old town and important seagrass meadows.","obscurity":2,"source_url":"https://www.britannica.com/place/Ibiza-island-Spain"},
+        {"name":"Lesbos","aliases":["Lesvos"],"fact":"The word 'lesbian' derives from the name of Lesbos.","explanation":"The ancient Greek poet Sappho lived on Lesbos; her poetry is associated with love between women.","obscurity":4,"source_url":"https://www.britannica.com/place/Lesbos"},
+        {"name":"Mallorca","aliases":["Majorca"],"fact":"Mallorca is the largest of Spain's Balearic Islands.","explanation":"Its Serra de Tramuntana mountain range runs along the island's northwest coast.","obscurity":2,"source_url":"https://www.britannica.com/place/Mallorca-island-Spain"}
+      ]
+    },
+    {
+      "id": "chemical-elements",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "prompt": "Name a chemical element whose symbol does not start with the same letter as its English name.",
+      "rule": "Name an element with a chemical symbol derived from a different-language or older name. The accepted entries demonstrate the rule.",
+      "answers": [
+        {"name":"Sodium","aliases":["Na"],"fact":"Sodium's symbol, Na, comes from the Latin natrium.","explanation":"The symbol preserves an older name rather than the English word sodium.","obscurity":2,"source_url":"https://www.britannica.com/science/sodium"},
+        {"name":"Potassium","aliases":["K"],"fact":"Potassium's symbol K comes from the Latin kalium.","explanation":"The English name refers to potash, while the symbol reflects another historical name.","obscurity":2,"source_url":"https://www.britannica.com/science/potassium"},
+        {"name":"Iron","aliases":["Fe"],"fact":"Iron's symbol Fe comes from the Latin ferrum.","explanation":"Ferrum is also the origin of words such as ferrous and ferric.","obscurity":1,"source_url":"https://www.britannica.com/science/iron-chemical-element"},
+        {"name":"Copper","aliases":["Cu"],"fact":"Copper's symbol Cu is linked to the Latin cuprum.","explanation":"Cuprum is traditionally connected with the metal's association with Cyprus.","obscurity":2,"source_url":"https://www.britannica.com/science/copper"},
+        {"name":"Silver","aliases":["Ag"],"fact":"Silver's symbol Ag comes from the Latin argentum.","explanation":"The same root appears in Argentina's name, traditionally associated with silver.","obscurity":2,"source_url":"https://www.britannica.com/science/silver"},
+        {"name":"Gold","aliases":["Au"],"fact":"Gold's symbol Au comes from the Latin aurum.","explanation":"Aurum is also the source of the word 'auric,' relating to gold.","obscurity":1,"source_url":"https://www.britannica.com/science/gold-chemical-element"},
+        {"name":"Mercury","aliases":["Hg"],"fact":"Mercury's symbol Hg comes from the Greek hydrargyrum.","explanation":"The old name means 'liquid silver,' reflecting mercury's appearance.","obscurity":3,"source_url":"https://www.britannica.com/science/mercury-chemical-element"},
+        {"name":"Lead","aliases":["Pb"],"fact":"Lead's symbol Pb comes from the Latin plumbum.","explanation":"The Latin root survives in words such as plumbing and plumber.","obscurity":2,"source_url":"https://www.britannica.com/science/lead-chemical-element"},
+        {"name":"Tin","aliases":["Sn"],"fact":"Tin's symbol Sn comes from the Latin stannum.","explanation":"The Latin-derived symbol is different from the English element name.","obscurity":3,"source_url":"https://www.britannica.com/science/tin"},
+        {"name":"Antimony","aliases":["Sb"],"fact":"Antimony's symbol Sb comes from the Latin stibium.","explanation":"Its symbol reflects the mineral name used in historical Latin texts.","obscurity":4,"source_url":"https://www.britannica.com/science/antimony"}
+      ]
+    },
+    {
+      "id": "solar-system-moons",
+      "category": "Science",
+      "subcategory": "Astronomy",
+      "prompt": "Name a moon of a planet other than Earth.",
+      "rule": "Name a natural satellite orbiting a planet other than Earth. This starter set includes these confirmed moons.",
+      "answers": [
+        {"name":"Io","aliases":[],"fact":"Jupiter's moon Io is the most volcanically active world known.","explanation":"Tidal forces from Jupiter and neighboring moons heat Io's interior and drive its volcanism.","obscurity":3,"source_url":"https://science.nasa.gov/jupiter/moons/io/"},
+        {"name":"Europa","aliases":[],"fact":"Europa likely has a global ocean beneath its icy crust.","explanation":"Evidence from spacecraft observations makes it a major target in the search for habitable environments.","obscurity":2,"source_url":"https://science.nasa.gov/jupiter/moons/europa/"},
+        {"name":"Ganymede","aliases":[],"fact":"Ganymede is the largest moon in the Solar System.","explanation":"Jupiter's moon is larger than the planet Mercury and has its own magnetic field.","obscurity":3,"source_url":"https://science.nasa.gov/jupiter/moons/ganymede/"},
+        {"name":"Callisto","aliases":[],"fact":"Callisto's surface is among the most heavily cratered in the Solar System.","explanation":"This ancient-looking Jupiter moon preserves a record of impacts over billions of years.","obscurity":4,"source_url":"https://science.nasa.gov/jupiter/moons/callisto/"},
+        {"name":"Titan","aliases":[],"fact":"Titan has lakes and seas of liquid methane and ethane.","explanation":"Saturn's largest moon has a dense atmosphere and a weather cycle based on hydrocarbons.","obscurity":2,"source_url":"https://science.nasa.gov/saturn/moons/titan/"},
+        {"name":"Enceladus","aliases":[],"fact":"Enceladus shoots water-rich plumes into space.","explanation":"The plumes erupt from fractures near its south pole and reveal a subsurface ocean.","obscurity":4,"source_url":"https://science.nasa.gov/saturn/moons/enceladus/"},
+        {"name":"Triton","aliases":[],"fact":"Neptune's Triton orbits in the direction opposite Neptune's rotation.","explanation":"Its retrograde orbit suggests Triton was captured rather than forming alongside Neptune.","obscurity":4,"source_url":"https://science.nasa.gov/neptune/moons/"},
+        {"name":"Phobos","aliases":[],"fact":"Phobos is slowly spiraling toward Mars.","explanation":"The small moon orbits so close to Mars that tidal forces are gradually changing its orbit.","obscurity":4,"source_url":"https://science.nasa.gov/mars/moons/phobos/"},
+        {"name":"Deimos","aliases":[],"fact":"Deimos is the smaller and more distant of Mars's two moons.","explanation":"It is irregularly shaped and was named after the Greek personification of dread.","obscurity":5,"source_url":"https://science.nasa.gov/mars/moons/deimos/"},
+        {"name":"Mimas","aliases":[],"fact":"Saturn's moon Mimas has a crater that gives it a 'Death Star' appearance.","explanation":"The large Herschel crater dominates one hemisphere of this small, icy moon.","obscurity":4,"source_url":"https://science.nasa.gov/saturn/moons/mimas/"}
+      ]
+    },
+    {
+      "id": "ancient-civilizations",
+      "category": "History",
+      "subcategory": "Archaeology",
+      "prompt": "Name an ancient civilization or culture known for a distinctive archaeological achievement.",
+      "rule": "Give the conventional name of a historical civilization or culture represented below.",
+      "answers": [
+        {"name":"Minoans","aliases":["Minoan civilization"],"fact":"The Minoans built monumental palace complexes on Crete.","explanation":"Knossos is the largest and most famous palace site associated with this Bronze Age culture.","obscurity":3,"source_url":"https://www.britannica.com/topic/Minoan-civilization"},
+        {"name":"Hittites","aliases":["Hittite civilization"],"fact":"The Hittites built an empire centered in Anatolia.","explanation":"Their capital Hattusa is a major archaeological site in modern Turkey.","obscurity":3,"source_url":"https://www.britannica.com/topic/Hittite"},
+        {"name":"Phoenicians","aliases":["Phoenician civilization"],"fact":"Phoenician traders spread an early alphabet around the Mediterranean.","explanation":"The Phoenician writing system influenced later alphabets, including Greek.","obscurity":3,"source_url":"https://www.britannica.com/topic/Phoenicia"},
+        {"name":"Etruscans","aliases":["Etruscan civilization"],"fact":"The Etruscans flourished in central Italy before Roman dominance.","explanation":"Their art, religious practices, and engineering influenced early Roman culture.","obscurity":4,"source_url":"https://www.britannica.com/topic/Etruscan"},
+        {"name":"Nabataeans","aliases":["Nabataean kingdom","Nabateans"],"fact":"The Nabataeans carved monumental buildings at Petra.","explanation":"Petra in present-day Jordan was a major center on ancient trade routes.","obscurity":4,"source_url":"https://www.britannica.com/topic/Nabataean"},
+        {"name":"Aksumites","aliases":["Kingdom of Aksum","Aksum"],"fact":"The Kingdom of Aksum minted its own coins in antiquity.","explanation":"Aksum was a powerful Red Sea trading state in what is now Ethiopia and Eritrea.","obscurity":4,"source_url":"https://www.britannica.com/place/Aksum-ancient-kingdom-Africa"},
+        {"name":"Olmecs","aliases":["Olmec civilization"],"fact":"Olmec artists carved colossal stone heads in Mesoamerica.","explanation":"The heads are among the most recognizable works of the Olmec culture of the Gulf Coast.","obscurity":3,"source_url":"https://www.britannica.com/topic/Olmec"},
+        {"name":"Moche","aliases":["Moche culture","Mochica"],"fact":"Moche artisans made highly detailed portrait vessels.","explanation":"The Moche flourished on Peru's north coast long before the Inca Empire.","obscurity":4,"source_url":"https://www.britannica.com/topic/Moche"},
+        {"name":"Harappans","aliases":["Indus Valley civilization","Harappan civilization"],"fact":"Harappan cities used carefully planned streets and drainage systems.","explanation":"Mohenjo-daro and Harappa were major urban centers of the Indus civilization.","obscurity":3,"source_url":"https://www.britannica.com/topic/Indus-civilization"},
+        {"name":"Hohokam","aliases":["Hohokam culture"],"fact":"The Hohokam built extensive irrigation canals in the Sonoran Desert.","explanation":"Their canal networks supported agriculture in what is now Arizona.","obscurity":5,"source_url":"https://www.britannica.com/topic/Hohokam-culture"}
+      ]
+    },
+    {
+      "id": "famous-rivers",
+      "category": "Geography",
+      "subcategory": "Rivers",
+      "prompt": "Name a major river in South America.",
+      "rule": "Name a natural river flowing in South America; accepted entries are listed below.",
+      "answers": [
+        {"name":"Amazon River","aliases":["Amazon"],"fact":"The Amazon carries more water than any other river system.","explanation":"Its enormous discharge reaches the Atlantic Ocean and drains a vast rainforest basin.","obscurity":1,"source_url":"https://www.britannica.com/place/Amazon-River"},
+        {"name":"Orinoco River","aliases":["Orinoco"],"fact":"The Orinoco forms a vast delta in Venezuela.","explanation":"It is one of South America's great river systems and partly marks the Venezuela-Colombia border.","obscurity":3,"source_url":"https://www.britannica.com/place/Orinoco-River"},
+        {"name":"Paraná River","aliases":["Parana River","Paraná"],"fact":"The Paraná joins the Uruguay River to form the Río de la Plata estuary.","explanation":"It is a major waterway shared by Brazil, Paraguay, and Argentina.","obscurity":3,"source_url":"https://www.britannica.com/place/Parana-River"},
+        {"name":"São Francisco River","aliases":["Sao Francisco River","Rio Sao Francisco"],"fact":"The São Francisco River flows entirely within Brazil.","explanation":"It crosses several Brazilian regions and has long supported transport and agriculture.","obscurity":4,"source_url":"https://www.britannica.com/place/Sao-Francisco-River"},
+        {"name":"Magdalena River","aliases":["Río Magdalena","Rio Magdalena"],"fact":"The Magdalena is Colombia's principal river artery.","explanation":"It flows north through the Andes region to the Caribbean Sea.","obscurity":4,"source_url":"https://www.britannica.com/place/Magdalena-River"},
+        {"name":"Uruguay River","aliases":["Río Uruguay","Rio Uruguay"],"fact":"The Uruguay River helps form part of the Argentina-Uruguay border.","explanation":"It joins the Paraná to form the broad Río de la Plata estuary.","obscurity":4,"source_url":"https://www.britannica.com/place/Uruguay-River"},
+        {"name":"Tocantins River","aliases":["Tocantins"],"fact":"The Tocantins is a major river system in Brazil.","explanation":"It flows north toward the Atlantic, though it is separate from the Amazon's main channel.","obscurity":4,"source_url":"https://www.britannica.com/place/Tocantins-River"},
+        {"name":"Essequibo River","aliases":["Essequibo"],"fact":"The Essequibo is Guyana's longest river.","explanation":"It flows north through rainforest and savanna to the Atlantic coast.","obscurity":5,"source_url":"https://www.britannica.com/place/Essequibo-River"},
+        {"name":"Negro River","aliases":["Rio Negro"],"fact":"The dark-water Negro River meets the sandy Amazon near Manaus.","explanation":"The two rivers run side by side for several miles before mixing, creating the Meeting of Waters.","obscurity":3,"source_url":"https://www.britannica.com/place/Negro-River"},
+        {"name":"Pilcomayo River","aliases":["Pilcomayo"],"fact":"The Pilcomayo forms part of the border region between Argentina and Paraguay.","explanation":"It is a tributary of the Paraguay River and flows through the Gran Chaco.","obscurity":5,"source_url":"https://www.britannica.com/place/Pilcomayo-River"}
+      ]
+    },
+    {
+      "id": "nobel-literature",
+      "category": "Literature",
+      "subcategory": "Awards",
+      "prompt": "Name a Nobel Prize in Literature laureate.",
+      "rule": "Name a person who received the Nobel Prize in Literature. The listed entries are verified laureates.",
+      "answers": [
+        {"name":"Wole Soyinka","aliases":["Akinwande Oluwole Babatunde Soyinka"],"fact":"Wole Soyinka was the first African awarded the Nobel Prize in Literature.","explanation":"The Nigerian playwright received the prize in 1986.","obscurity":3,"source_url":"https://www.nobelprize.org/prizes/literature/1986/soyinka/facts/"},
+        {"name":"Toni Morrison","aliases":["Chloe Anthony Wofford Morrison"],"fact":"Toni Morrison received the Literature Nobel in 1993.","explanation":"Her novels include Beloved, which won the Pulitzer Prize for Fiction.","obscurity":1,"source_url":"https://www.nobelprize.org/prizes/literature/1993/morrison/facts/"},
+        {"name":"Rabindranath Tagore","aliases":["Tagore"],"fact":"Rabindranath Tagore was the first non-European Literature laureate.","explanation":"The Bengali poet and writer received the prize in 1913.","obscurity":2,"source_url":"https://www.nobelprize.org/prizes/literature/1913/tagore/facts/"},
+        {"name":"Naguib Mahfouz","aliases":["Najib Mahfuz"],"fact":"Naguib Mahfouz was the first Arabic-language writer to win the Literature Nobel.","explanation":"The Egyptian novelist received the award in 1988.","obscurity":3,"source_url":"https://www.nobelprize.org/prizes/literature/1988/mahfouz/facts/"},
+        {"name":"Wisława Szymborska","aliases":["Wislawa Szymborska"],"fact":"Wisława Szymborska won the Literature Nobel in 1996.","explanation":"The Polish poet was praised for poetry that illuminates historical and biological contexts.","obscurity":4,"source_url":"https://www.nobelprize.org/prizes/literature/1996/szymborska/facts/"},
+        {"name":"Derek Walcott","aliases":["Walcott"],"fact":"Derek Walcott was a poet and playwright from Saint Lucia.","explanation":"He received the Literature Nobel in 1992 and often drew on Caribbean history and culture.","obscurity":4,"source_url":"https://www.nobelprize.org/prizes/literature/1992/walcott/facts/"},
+        {"name":"Olga Tokarczuk","aliases":["Tokarczuk"],"fact":"Olga Tokarczuk received the 2018 Literature Nobel, announced in 2019.","explanation":"The Polish novelist's work often uses myth, travel, and unconventional narrative structures.","obscurity":3,"source_url":"https://www.nobelprize.org/prizes/literature/2018/summary/"},
+        {"name":"Kazuo Ishiguro","aliases":["Ishiguro"],"fact":"Kazuo Ishiguro was born in Nagasaki and grew up in Britain.","explanation":"The novelist received the Nobel Prize in Literature in 2017.","obscurity":2,"source_url":"https://www.nobelprize.org/prizes/literature/2017/ishiguro/facts/"},
+        {"name":"Annie Ernaux","aliases":["Ernaux"],"fact":"Annie Ernaux's writing often draws on personal memory and social history.","explanation":"The French author received the Literature Nobel in 2022.","obscurity":3,"source_url":"https://www.nobelprize.org/prizes/literature/2022/summary/"},
+        {"name":"Abdulrazak Gurnah","aliases":["Gurnah"],"fact":"Abdulrazak Gurnah was born in Zanzibar and later settled in Britain.","explanation":"The novelist received the Nobel Prize in Literature in 2021.","obscurity":4,"source_url":"https://www.nobelprize.org/prizes/literature/2021/summary/"}
+      ]
+    },
+    {
+      "id": "best-picture-1990s",
+      "category": "Film",
+      "subcategory": "Academy Awards",
+      "prompt": "Name a Best Picture Oscar winner from the 1990s.",
+      "rule": "Name a film that won the Academy Award for Best Picture at a ceremony held from 1990 through 1999 inclusive.",
+      "answers": [
+        {"name":"Driving Miss Daisy","aliases":[],"fact":"Driving Miss Daisy won Best Picture at the 62nd Academy Awards.","explanation":"The 1989 film received the award at the 1990 ceremony.","obscurity":3,"source_url":"https://www.oscars.org/oscars/ceremonies/1990"},
+        {"name":"Dances with Wolves","aliases":[],"fact":"Dances with Wolves was Kevin Costner's feature directorial debut.","explanation":"The film won Best Picture at the 1991 Academy Awards.","obscurity":2,"source_url":"https://www.oscars.org/oscars/ceremonies/1991"},
+        {"name":"The Silence of the Lambs","aliases":[],"fact":"The Silence of the Lambs won the five major Oscar categories.","explanation":"It took Best Picture, Director, Actor, Actress, and Adapted Screenplay at the 1992 ceremony.","obscurity":1,"source_url":"https://www.oscars.org/oscars/ceremonies/1992"},
+        {"name":"Unforgiven","aliases":[],"fact":"Unforgiven was directed by and starred Clint Eastwood.","explanation":"The western won Best Picture at the 1993 Academy Awards.","obscurity":2,"source_url":"https://www.oscars.org/oscars/ceremonies/1993"},
+        {"name":"Schindler's List","aliases":["Schindlers List"],"fact":"Schindler's List was filmed largely in black and white.","explanation":"Steven Spielberg's film won Best Picture at the 1994 Academy Awards.","obscurity":1,"source_url":"https://www.oscars.org/oscars/ceremonies/1994"},
+        {"name":"Forrest Gump","aliases":[],"fact":"Forrest Gump won six Academy Awards, including Best Picture.","explanation":"The film received Best Picture at the 1995 ceremony.","obscurity":1,"source_url":"https://www.oscars.org/oscars/ceremonies/1995"},
+        {"name":"Braveheart","aliases":[],"fact":"Braveheart won five Oscars, including Best Picture and Director.","explanation":"Mel Gibson directed and starred in the 1995 historical epic, honored at the 1996 ceremony.","obscurity":2,"source_url":"https://www.oscars.org/oscars/ceremonies/1996"},
+        {"name":"The English Patient","aliases":[],"fact":"The English Patient won nine Academy Awards.","explanation":"Its wins included Best Picture at the 1997 ceremony.","obscurity":3,"source_url":"https://www.oscars.org/oscars/ceremonies/1997"},
+        {"name":"Titanic","aliases":[],"fact":"Titanic tied the record with 11 Academy Award wins.","explanation":"The film won Best Picture at the 1998 ceremony.","obscurity":1,"source_url":"https://www.oscars.org/oscars/ceremonies/1998"},
+        {"name":"Shakespeare in Love","aliases":[],"fact":"Shakespeare in Love won Best Picture at the 1999 Academy Awards.","explanation":"The film's awards included acting honors for Gwyneth Paltrow and Judi Dench.","obscurity":2,"source_url":"https://www.oscars.org/oscars/ceremonies/1999"}
+      ]
+    },
+    {
+      "id": "unusual-sports",
+      "category": "Sports",
+      "subcategory": "Olympics",
+      "prompt": "Name a sport that has appeared at the Summer Olympic Games.",
+      "rule": "Name a sport included in at least one edition of the modern Summer Olympics; this pack provides examples, not an exhaustive list.",
+      "answers": [
+        {"name":"Tug of war","aliases":["Tug-of-war"],"fact":"Tug of war was an Olympic sport from 1900 to 1920.","explanation":"It appeared at five Summer Games before being dropped from the programme.","obscurity":5,"source_url":"https://www.olympics.com/en/sports/tug-of-war/"},
+        {"name":"Polo","aliases":[],"fact":"Polo appeared at five Summer Olympics between 1900 and 1936.","explanation":"Argentina won the last Olympic polo tournament, at Berlin 1936.","obscurity":4,"source_url":"https://www.olympics.com/en/sports/polo/"},
+        {"name":"Croquet","aliases":[],"fact":"Croquet was an Olympic event at the 1900 Paris Games.","explanation":"It was among the sports included in the early, less standardized Olympic programme.","obscurity":5,"source_url":"https://www.olympics.com/en/sports/croquet/"},
+        {"name":"Roque","aliases":[],"fact":"Roque appeared as an Olympic sport at St. Louis 1904.","explanation":"This American court game was a close relative of croquet.","obscurity":5,"source_url":"https://www.olympics.com/en/sports/roque/"},
+        {"name":"Jeu de paume","aliases":["Real tennis"],"fact":"Jeu de paume was an Olympic sport in 1908.","explanation":"The indoor racket sport is an ancestor of modern tennis and is still played by enthusiasts.","obscurity":5,"source_url":"https://www.olympics.com/en/sports/"},
+        {"name":"Lacrosse","aliases":[],"fact":"Lacrosse was an Olympic medal sport in 1904 and 1908.","explanation":"It later appeared as a demonstration sport at several Games.","obscurity":4,"source_url":"https://www.olympics.com/en/sports/lacrosse/"},
+        {"name":"Basque pelota","aliases":["Pelota"],"fact":"Basque pelota appeared at the 1900 Paris Olympics.","explanation":"Only two teams competed in the medal event, and Spain won.","obscurity":5,"source_url":"https://www.olympics.com/en/sports/basque-pelota/"},
+        {"name":"Cricket","aliases":[],"fact":"Cricket appeared once at the Olympics, at Paris 1900.","explanation":"A single match between Great Britain and France determined the medals in the only Olympic cricket tournament so far.","obscurity":5,"source_url":"https://www.olympics.com/en/sports/cricket/"},
+        {"name":"Skateboarding","aliases":[],"fact":"Skateboarding made its Olympic debut at Tokyo 2020.","explanation":"The Games took place in 2021 after postponement, but retained the Tokyo 2020 name.","obscurity":2,"source_url":"https://olympics.com/en/sports/skateboarding/"},
+        {"name":"Breaking","aliases":["Breakdancing"],"fact":"Breaking made its Olympic debut at Paris 2024.","explanation":"The sport's Olympic competition featured B-Boys and B-Girls battles.","obscurity":2,"source_url":"https://olympics.com/en/sports/breaking/"}
+      ]
+    },
+    {
+      "id": "women-scientists",
+      "category": "Science",
+      "subcategory": "People",
+      "prompt": "Name a woman who made a notable contribution to science.",
+      "rule": "Name a scientist represented in the accepted entries. Each entry includes the contribution used to verify the answer.",
+      "answers": [
+        {"name":"Katherine Johnson","aliases":["Katherine Coleman Goble Johnson"],"fact":"Katherine Johnson calculated trajectories for early U.S. crewed spaceflights.","explanation":"Her mathematical work supported missions including John Glenn's 1962 orbital flight.","obscurity":2,"source_url":"https://www.nasa.gov/people/katherine-johnson/"},
+        {"name":"Chien-Shiung Wu","aliases":["Wu Chien-Shiung"],"fact":"Chien-Shiung Wu led an experiment that demonstrated parity violation.","explanation":"Her cobalt-60 experiment tested a prediction by theoretical physicists Lee and Yang.","obscurity":4,"source_url":"https://www.britannica.com/biography/Wu-Chien-shiung"},
+        {"name":"Lise Meitner","aliases":[],"fact":"Lise Meitner helped explain the physics of nuclear fission.","explanation":"Meitner and Otto Frisch interpreted the process after experimental work by Otto Hahn and Fritz Strassmann.","obscurity":3,"source_url":"https://www.britannica.com/biography/Lise-Meitner"},
+        {"name":"Emmy Noether","aliases":["Amalie Emmy Noether"],"fact":"Emmy Noether's theorem links symmetries with conservation laws.","explanation":"The result is a foundational idea in mathematical physics.","obscurity":4,"source_url":"https://www.britannica.com/biography/Emmy-Noether"},
+        {"name":"Rosalind Franklin","aliases":[],"fact":"Rosalind Franklin's X-ray diffraction work revealed key evidence about DNA's structure.","explanation":"Her diffraction image known as Photograph 51 was important to understanding DNA's double helix.","obscurity":2,"source_url":"https://www.britannica.com/biography/Rosalind-Franklin"},
+        {"name":"Barbara McClintock","aliases":[],"fact":"Barbara McClintock discovered transposable genetic elements in maize.","explanation":"Her work on 'jumping genes' earned the 1983 Nobel Prize in Physiology or Medicine.","obscurity":3,"source_url":"https://www.nobelprize.org/prizes/medicine/1983/mcclintock/facts/"},
+        {"name":"Tu Youyou","aliases":[],"fact":"Tu Youyou discovered artemisinin as a treatment for malaria.","explanation":"The Chinese scientist shared the 2015 Nobel Prize in Physiology or Medicine.","obscurity":3,"source_url":"https://www.nobelprize.org/prizes/medicine/2015/tu/facts/"},
+        {"name":"Vera Rubin","aliases":[],"fact":"Vera Rubin's galaxy-rotation observations provided strong evidence for dark matter.","explanation":"Her measurements showed that stars in galaxies moved in ways not explained by visible matter alone.","obscurity":3,"source_url":"https://carnegiescience.edu/scientists/vera-rubin"},
+        {"name":"Mary Anning","aliases":[],"fact":"Mary Anning found important marine fossils on England's Jurassic Coast.","explanation":"Her discoveries helped shape early paleontology, though she received little formal recognition during her lifetime.","obscurity":3,"source_url":"https://www.britannica.com/biography/Mary-Anning"},
+        {"name":"Jocelyn Bell Burnell","aliases":["Susan Jocelyn Bell Burnell"],"fact":"Jocelyn Bell Burnell discovered the first radio pulsars as a graduate student.","explanation":"Her 1967 observations revealed a new class of rapidly rotating neutron stars.","obscurity":3,"source_url":"https://www.britannica.com/biography/Jocelyn-Bell-Burnell"}
+      ]
+    },
+    {
+      "id": "authors-pen-names",
+      "category": "Literature",
+      "subcategory": "Authors",
+      "prompt": "Name an author who published under a pen name.",
+      "rule": "Name a writer known to have published work under the listed pseudonym or pen name.",
+      "answers": [
+        {"name":"George Eliot","aliases":["Mary Ann Evans","Mary Anne Evans"],"fact":"George Eliot was the pen name of Mary Ann Evans.","explanation":"She used a male pseudonym in part to have her serious literary work judged independently of gender expectations.","obscurity":2,"source_url":"https://www.britannica.com/biography/George-Eliot"},
+        {"name":"Mark Twain","aliases":["Samuel Clemens","Samuel Langhorne Clemens"],"fact":"Mark Twain was the pen name of Samuel Clemens.","explanation":"The name came from a riverboat sounding meaning two fathoms deep.","obscurity":1,"source_url":"https://www.britannica.com/biography/Mark-Twain"},
+        {"name":"Lewis Carroll","aliases":["Charles Lutwidge Dodgson"],"fact":"Lewis Carroll was the pen name of mathematician Charles Dodgson.","explanation":"Dodgson wrote Alice's Adventures in Wonderland under his better-known literary name.","obscurity":2,"source_url":"https://www.britannica.com/biography/Lewis-Carroll"},
+        {"name":"Dr. Seuss","aliases":["Theodor Seuss Geisel","Theodor Geisel"],"fact":"Dr. Seuss was the pen name of Theodor Geisel.","explanation":"Geisel also used the name Theo LeSieg for books whose illustrations were by other artists.","obscurity":2,"source_url":"https://www.britannica.com/biography/Dr-Seuss"},
+        {"name":"George Orwell","aliases":["Eric Arthur Blair","Eric Blair"],"fact":"George Orwell was the pen name of Eric Arthur Blair.","explanation":"He adopted the name before publishing Down and Out in Paris and London.","obscurity":2,"source_url":"https://www.britannica.com/biography/George-Orwell"},
+        {"name":"Saki","aliases":["H. H. Munro","Hector Hugh Munro"],"fact":"Saki was the pen name of British writer H. H. Munro.","explanation":"He became known for witty, often sharply ironic short stories.","obscurity":4,"source_url":"https://www.britannica.com/biography/Saki"},
+        {"name":"Ellis Bell","aliases":["Emily Brontë","Emily Bronte"],"fact":"Emily Brontë first published poetry as Ellis Bell.","explanation":"The Brontë sisters initially used gender-ambiguous pen names for their writing.","obscurity":4,"source_url":"https://www.britannica.com/biography/Emily-Bronte"},
+        {"name":"Currer Bell","aliases":["Charlotte Brontë","Charlotte Bronte"],"fact":"Charlotte Brontë published Jane Eyre as Currer Bell.","explanation":"She and her sisters used pen names beginning with the same initials as their real names.","obscurity":4,"source_url":"https://www.britannica.com/biography/Charlotte-Bronte"},
+        {"name":"R. K. Narayan","aliases":["Rasipuram Krishnaswami Iyer Narayanaswami"],"fact":"R. K. Narayan shortened his long birth name for his author name.","explanation":"His novels often feature the fictional South Indian town of Malgudi.","obscurity":3,"source_url":"https://www.britannica.com/biography/R-K-Narayan"},
+        {"name":"O. Henry","aliases":["William Sydney Porter","William Sidney Porter"],"fact":"O. Henry was the pen name of American short-story writer William Sydney Porter.","explanation":"He became especially associated with twist endings in stories such as The Gift of the Magi.","obscurity":3,"source_url":"https://www.britannica.com/biography/O-Henry"}
+      ]
+    },
+    {
+      "id": "music-instruments",
+      "category": "Music",
+      "subcategory": "Instruments",
+      "prompt": "Name a musical instrument in the string family.",
+      "rule": "Name an instrument whose sound is produced by vibrating strings; the listed entries are accepted examples.",
+      "answers": [
+        {"name":"Erhu","aliases":["Chinese fiddle"],"fact":"The erhu is a two-stringed bowed instrument from China.","explanation":"Its bow hair passes between the two strings, making the instrument distinctive to play.","obscurity":4,"source_url":"https://www.britannica.com/art/erhu"},
+        {"name":"Kora","aliases":[],"fact":"The kora is a West African bridge-harp with a large calabash resonator.","explanation":"A traditional kora commonly has 21 strings and is associated with Mandinka musical traditions.","obscurity":4,"source_url":"https://www.britannica.com/art/kora"},
+        {"name":"Sitar","aliases":[],"fact":"The sitar is a plucked string instrument associated with Hindustani classical music.","explanation":"Its sympathetic strings resonate along with the melody strings.","obscurity":2,"source_url":"https://www.britannica.com/art/sitar"},
+        {"name":"Balalaika","aliases":[],"fact":"The balalaika is a Russian string instrument with a triangular body.","explanation":"The family includes instruments of different sizes and registers.","obscurity":3,"source_url":"https://www.britannica.com/art/balalaika"},
+        {"name":"Guzheng","aliases":["Chinese zither"],"fact":"The guzheng is a Chinese plucked zither with movable bridges.","explanation":"Players can alter pitch by pressing the strings on the left side of the bridges.","obscurity":4,"source_url":"https://www.britannica.com/art/guzheng"},
+        {"name":"Mbira","aliases":["Thumb piano"],"fact":"The mbira makes sound with metal tines attached to a wooden board.","explanation":"It is strongly associated with Shona music in Zimbabwe and is often played inside a resonator.","obscurity":4,"source_url":"https://www.britannica.com/art/mbira"},
+        {"name":"Bandoneon","aliases":["Bandoneón"],"fact":"The bandoneon is a type of concertina strongly associated with Argentine tango.","explanation":"It is played by expanding and compressing its bellows while pressing buttons.","obscurity":4,"source_url":"https://www.britannica.com/art/bandoneon"},
+        {"name":"Nyckelharpa","aliases":["Keyed fiddle"],"fact":"The nyckelharpa is a Swedish keyed string instrument.","explanation":"Keys press tangents against strings to change pitch while the strings are bowed.","obscurity":5,"source_url":"https://www.britannica.com/art/nyckelharpa"},
+        {"name":"Oud","aliases":["Ud"],"fact":"The oud is a fretless lute central to many Middle Eastern musical traditions.","explanation":"Its short neck and pear-shaped body distinguish it from many European lutes.","obscurity":3,"source_url":"https://www.britannica.com/art/oud"},
+        {"name":"Hurdy-gurdy","aliases":["Vielle à roue","Vielle a roue"],"fact":"A hurdy-gurdy sounds when a hand-cranked wheel bows its strings.","explanation":"Keys shorten the melody strings while the wheel continuously rubs against them.","obscurity":4,"source_url":"https://www.britannica.com/art/hurdy-gurdy"}
+      ]
+    },
+    {
+      "id": "brands-origins",
+      "category": "Brands",
+      "subcategory": "Company history",
+      "prompt": "Name a global brand whose name has an interesting origin or former identity.",
+      "rule": "Name one of the listed companies or brands; the explanation gives the specific name/history connection.",
+      "answers": [
+        {"name":"IKEA","aliases":[],"fact":"IKEA is an acronym built from its founder's initials and places in Sweden.","explanation":"The letters stand for Ingvar Kamprad, Elmtaryd (his family farm), and Agunnaryd (his home parish).","obscurity":2,"source_url":"https://www.ikea.com/us/en/this-is-ikea/about-us/"},
+        {"name":"LEGO","aliases":["Lego"],"fact":"LEGO comes from the Danish phrase 'leg godt,' meaning 'play well.'","explanation":"The company says the name was formed from the first letters of the two Danish words.","obscurity":2,"source_url":"https://www.lego.com/en-us/history"},
+        {"name":"Sony","aliases":[],"fact":"Sony's name combines a Latin word and an English slang word.","explanation":"The company explains the name using sonus, meaning sound, and sonny, a familiar term for a young man.","obscurity":3,"source_url":"https://www.sony.com/en/SonyInfo/CorporateInfo/History/"},
+        {"name":"Adidas","aliases":[],"fact":"Adidas is named after its founder, Adolf 'Adi' Dassler.","explanation":"The brand name combines his nickname Adi with the beginning of his surname.","obscurity":2,"source_url":"https://www.adidas-group.com/en/about/history/"},
+        {"name":"Pepsi","aliases":["Pepsi-Cola"],"fact":"Pepsi-Cola was created by pharmacist Caleb Bradham.","explanation":"Bradham first sold the drink as Brad's Drink in North Carolina before renaming it Pepsi-Cola.","obscurity":3,"source_url":"https://www.pepsico.com/about"},
+        {"name":"Nokia","aliases":["Nokia Corporation"],"fact":"Nokia began as a Finnish pulp mill company in the 19th century.","explanation":"It later moved through several industries before becoming known worldwide for telecommunications.","obscurity":3,"source_url":"https://www.nokia.com/about-us/company/our-history/"},
+        {"name":"Nintendo","aliases":["Nintendo Company"],"fact":"Nintendo began in 1889 making handmade playing cards.","explanation":"The Japanese company later expanded into toys and video games.","obscurity":2,"source_url":"https://www.nintendo.com/us/about/"},
+        {"name":"Shell","aliases":["Royal Dutch Shell","Shell plc"],"fact":"Shell's emblem was inspired by a real seashell business connection.","explanation":"The Shell Transport and Trading Company was named after Marcus Samuel's family business in seashells.","obscurity":3,"source_url":"https://www.shell.com/about-us/our-history.html"},
+        {"name":"Canon","aliases":["Canon Inc."],"fact":"Canon's first camera prototype was called Kwanon.","explanation":"The name referenced Kannon, the Buddhist bodhisattva of compassion; the company later adopted Canon.","obscurity":4,"source_url":"https://global.canon/en/corporate/history/"},
+        {"name":"Starbucks","aliases":["Starbucks Coffee"],"fact":"Starbucks was named after a character in the novel Moby-Dick.","explanation":"Starbuck is the first mate aboard the Pequod in Herman Melville's novel.","obscurity":2,"source_url":"https://about.starbucks.com/history/"}
+      ]
+    },
+    {
+      "id": "world-heritage-sites",
+      "category": "General Knowledge",
+      "subcategory": "Landmarks",
+      "prompt": "Name a UNESCO World Heritage Site outside Europe.",
+      "rule": "Name a site currently inscribed on the UNESCO World Heritage List outside Europe. Accepted entries have individual UNESCO pages.",
+      "answers": [
+        {"name":"Taj Mahal","aliases":[],"fact":"The Taj Mahal was built as a mausoleum commissioned by Mughal emperor Shah Jahan.","explanation":"The white-marble complex in Agra was completed in the 17th century.","obscurity":1,"source_url":"https://whc.unesco.org/en/list/252/"},
+        {"name":"Machu Picchu","aliases":["Historic Sanctuary of Machu Picchu"],"fact":"Machu Picchu stands high in the Andes of Peru.","explanation":"The Inca site combines monumental architecture with a dramatic mountain setting.","obscurity":1,"source_url":"https://whc.unesco.org/en/list/274/"},
+        {"name":"Petra","aliases":["Petra Archaeological Park"],"fact":"Petra's famous Al-Khazneh facade was carved into sandstone.","explanation":"The Nabataean city was an important center on ancient trade routes in present-day Jordan.","obscurity":1,"source_url":"https://whc.unesco.org/en/list/326/"},
+        {"name":"Great Zimbabwe","aliases":["Great Zimbabwe National Monument"],"fact":"Great Zimbabwe was built from carefully fitted stone blocks without mortar.","explanation":"The medieval city was a major center of the Shona civilization.","obscurity":3,"source_url":"https://whc.unesco.org/en/list/364/"},
+        {"name":"Angkor","aliases":["Angkor Archaeological Park"],"fact":"Angkor was the capital region of the Khmer Empire.","explanation":"Its temple complex includes Angkor Wat, one of the world's largest religious monuments.","obscurity":1,"source_url":"https://whc.unesco.org/en/list/668/"},
+        {"name":"Galápagos Islands","aliases":["Galapagos Islands","Galápagos"],"fact":"The Galápagos Islands helped inspire Charles Darwin's thinking about species.","explanation":"Their distinctive wildlife and ecosystems are protected as a World Heritage site.","obscurity":1,"source_url":"https://whc.unesco.org/en/list/1/"},
+        {"name":"Rapa Nui National Park","aliases":["Easter Island","Rapa Nui"],"fact":"Rapa Nui is famous for its monumental moai statues.","explanation":"The remote Chilean island's archaeological landscape includes platforms, quarries, and ceremonial sites.","obscurity":2,"source_url":"https://whc.unesco.org/en/list/715/"},
+        {"name":"Timbuktu","aliases":["Timbuktu"],"fact":"Timbuktu became a major center of Islamic learning and trade.","explanation":"Its historic mosques and manuscripts reflect centuries of scholarship in Mali.","obscurity":2,"source_url":"https://whc.unesco.org/en/list/119/"},
+        {"name":"Aït Benhaddou","aliases":["Ait Benhaddou","Ksar of Ait-Ben-Haddou"],"fact":"Aït Benhaddou is a fortified earthen settlement in Morocco.","explanation":"Its kasbah-style architecture sits along former trans-Saharan trade routes.","obscurity":4,"source_url":"https://whc.unesco.org/en/list/444/"},
+        {"name":"Ha Long Bay","aliases":["Hạ Long Bay","Halong Bay"],"fact":"Ha Long Bay is known for thousands of limestone islands and islets.","explanation":"The seascape lies in northeastern Vietnam and is protected for its exceptional geology and scenery.","obscurity":2,"source_url":"https://whc.unesco.org/en/list/672/"}
+      ]
+    },
+    {
+      "id": "classic-literature",
+      "category": "Literature",
+      "subcategory": "Books",
+      "prompt": "Name a novel by a 19th-century author.",
+      "rule": "Name one of the listed novels first published from 1801 through 1900; titles are matched without punctuation or accents.",
+      "answers": [
+        {"name":"The Count of Monte Cristo","aliases":["Le Comte de Monte-Cristo"],"fact":"Alexandre Dumas's The Count of Monte Cristo was serialized from 1844 to 1846.","explanation":"The adventure novel follows Edmond Dantès and his elaborate quest for justice.","obscurity":2,"source_url":"https://www.britannica.com/topic/The-Count-of-Monte-Cristo"},
+        {"name":"Middlemarch","aliases":["Middlemarch: A Study of Provincial Life"],"fact":"George Eliot published Middlemarch in eight parts in 1871 and 1872.","explanation":"The novel interweaves the lives and ambitions of residents of a fictional English town.","obscurity":2,"source_url":"https://www.britannica.com/topic/Middlemarch"},
+        {"name":"The Last of the Mohicans","aliases":[],"fact":"James Fenimore Cooper published The Last of the Mohicans in 1826.","explanation":"The historical novel is set during the French and Indian War in 18th-century North America.","obscurity":2,"source_url":"https://www.britannica.com/topic/The-Last-of-the-Mohicans"},
+        {"name":"The Moonstone","aliases":[],"fact":"Wilkie Collins's The Moonstone is often called an early detective novel.","explanation":"The 1868 story uses multiple narrators to investigate the theft of a valuable diamond.","obscurity":4,"source_url":"https://www.britannica.com/topic/The-Moonstone"},
+        {"name":"The Woman in White","aliases":[],"fact":"The Woman in White helped establish the sensation novel genre.","explanation":"Wilkie Collins's mystery was first published in serial form in the 1850s.","obscurity":3,"source_url":"https://www.britannica.com/topic/The-Woman-in-White-novel-by-Collins"},
+        {"name":"The Brothers Karamazov","aliases":["The Karamazov Brothers"],"fact":"The Brothers Karamazov was Fyodor Dostoyevsky's final novel.","explanation":"The philosophical novel centers on the Karamazov family and a murder trial.","obscurity":2,"source_url":"https://www.britannica.com/topic/The-Brothers-Karamazov"},
+        {"name":"The Scarlet Letter","aliases":[],"fact":"Nathaniel Hawthorne set The Scarlet Letter in 17th-century Puritan Boston.","explanation":"The 1850 novel explores shame, identity, and community through Hester Prynne's story.","obscurity":2,"source_url":"https://www.britannica.com/topic/The-Scarlet-Letter"},
+        {"name":"The House of the Seven Gables","aliases":[],"fact":"The House of the Seven Gables is a Gothic novel by Nathaniel Hawthorne.","explanation":"Published in 1851, the story centers on a New England family and its ancestral house.","obscurity":4,"source_url":"https://www.britannica.com/topic/The-House-of-the-Seven-Gables"},
+        {"name":"The Awakening","aliases":[],"fact":"Kate Chopin's The Awakening was published in 1899.","explanation":"The novel's treatment of a woman's independence was controversial when first published.","obscurity":3,"source_url":"https://www.britannica.com/topic/The-Awakening-novel-by-Chopin"},
+        {"name":"The Picture of Dorian Gray","aliases":["The Picture of Dorian Gray"],"fact":"Oscar Wilde's novel first appeared in magazine form in 1890.","explanation":"The story's portrait records the moral decay of its subject while he remains outwardly young.","obscurity":1,"source_url":"https://www.britannica.com/topic/The-Picture-of-Dorian-Gray"}
+      ]
+    },
+    {
+      "id": "women-in-sport",
+      "category": "Sports",
+      "subcategory": "Athletes",
+      "prompt": "Name a woman who has won an Olympic gold medal.",
+      "rule": "Name a woman who won at least one Olympic gold medal; included are athletes whose official Olympic profiles record gold.",
+      "answers": [
+        {"name":"Wilma Rudolph","aliases":[],"fact":"Wilma Rudolph won three gold medals at Rome 1960.","explanation":"She became the first American woman to win three gold medals at a single Olympic Games.","obscurity":2,"source_url":"https://www.olympics.com/en/athletes/wilma-rudolph"},
+        {"name":"Nadia Comăneci","aliases":["Nadia Comaneci"],"fact":"Nadia Comăneci earned the first perfect 10 in Olympic gymnastics.","explanation":"The Romanian gymnast achieved the score at Montreal 1976, where she won three gold medals.","obscurity":1,"source_url":"https://www.olympics.com/en/athletes/nadia-comaneci"},
+        {"name":"Tirunesh Dibaba","aliases":[],"fact":"Tirunesh Dibaba won Olympic gold in the 10,000 metres at Beijing 2008 and London 2012.","explanation":"The Ethiopian distance runner is nicknamed the 'baby-faced destroyer.'","obscurity":3,"source_url":"https://www.olympics.com/en/athletes/tirunesh-dibaba"},
+        {"name":"Fanny Blankers-Koen","aliases":["Francina Blankers-Koen"],"fact":"Fanny Blankers-Koen won four athletics gold medals at London 1948.","explanation":"The Dutch sprinter and hurdler was a mother of two when she achieved the feat.","obscurity":4,"source_url":"https://www.olympics.com/en/athletes/fanny-blankers-koen"},
+        {"name":"Alice Coachman","aliases":[],"fact":"Alice Coachman was the first Black woman to win an Olympic gold medal.","explanation":"The American high jumper won at London 1948.","obscurity":4,"source_url":"https://www.olympics.com/en/athletes/alice-coachman"},
+        {"name":"Jackie Joyner-Kersee","aliases":["Jacqueline Joyner-Kersee"],"fact":"Jackie Joyner-Kersee won Olympic gold in the heptathlon twice.","explanation":"The American also won a long-jump gold at Seoul 1988.","obscurity":2,"source_url":"https://www.olympics.com/en/athletes/jackie-joyner-kersee"},
+        {"name":"Birgit Fischer","aliases":[],"fact":"Birgit Fischer won Olympic canoeing gold medals across six Games.","explanation":"The German sprint canoeist medaled from Moscow 1980 through Athens 2004.","obscurity":4,"source_url":"https://www.olympics.com/en/athletes/birgit-fischer"},
+        {"name":"Yelena Isinbayeva","aliases":["Elena Isinbaeva"],"fact":"Yelena Isinbayeva won pole-vault gold at Athens 2004 and Beijing 2008.","explanation":"The Russian vaulter set multiple world records during her career.","obscurity":3,"source_url":"https://www.olympics.com/en/athletes/yelena-isinbayeva"},
+        {"name":"Megan Rapinoe","aliases":[],"fact":"Megan Rapinoe won Olympic football gold with the United States at London 2012.","explanation":"She later won the 2019 FIFA Women's World Cup with the U.S. team.","obscurity":2,"source_url":"https://www.olympics.com/en/athletes/megan-rapinoe"},
+        {"name":"Hidilyn Diaz","aliases":[],"fact":"Hidilyn Diaz won the Philippines' first Olympic gold medal.","explanation":"She won the women's 55 kg weightlifting event at Tokyo 2020, held in 2021.","obscurity":4,"source_url":"https://www.olympics.com/en/athletes/hidilyn-diaz"}
+      ]
+    },
+    {
+      "id": "space-firsts",
+      "category": "Science",
+      "subcategory": "Space exploration",
+      "prompt": "Name a space mission that achieved a notable first.",
+      "rule": "Name a listed mission and its associated milestone, as documented by the linked space-agency reference.",
+      "answers": [
+        {"name":"Sputnik 1","aliases":["Sputnik"],"fact":"Sputnik 1 was Earth's first artificial satellite.","explanation":"The Soviet Union launched the beach-ball-sized satellite in 1957, beginning the Space Age.","obscurity":1,"source_url":"https://www.nasa.gov/history/sputnik/"},
+        {"name":"Vostok 1","aliases":[],"fact":"Vostok 1 carried Yuri Gagarin, the first human to orbit Earth.","explanation":"The Soviet spacecraft completed one orbit in April 1961.","obscurity":1,"source_url":"https://www.nasa.gov/history/60-years-ago-yuri-gagarin-becomes-first-human-in-space/"},
+        {"name":"Apollo 8","aliases":[],"fact":"Apollo 8 was the first crewed spacecraft to orbit the Moon.","explanation":"Its 1968 lunar mission included the famous Earthrise photograph.","obscurity":2,"source_url":"https://www.nasa.gov/mission/apollo-8/"},
+        {"name":"Luna 2","aliases":["Lunik 2"],"fact":"Luna 2 was the first spacecraft to reach the surface of the Moon.","explanation":"The Soviet probe made impact in 1959.","obscurity":3,"source_url":"https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1959-014A"},
+        {"name":"Mariner 4","aliases":[],"fact":"Mariner 4 sent back the first close-up images of Mars.","explanation":"NASA's spacecraft flew by Mars in 1965.","obscurity":3,"source_url":"https://science.nasa.gov/mission/mariner-4/"},
+        {"name":"Voyager 2","aliases":[],"fact":"Voyager 2 is the only spacecraft to have visited Uranus and Neptune.","explanation":"It flew by Uranus in 1986 and Neptune in 1989.","obscurity":2,"source_url":"https://science.nasa.gov/mission/voyager/"},
+        {"name":"Huygens","aliases":["Huygens probe"],"fact":"The Huygens probe made the first landing on Saturn's moon Titan.","explanation":"The European-built probe descended through Titan's atmosphere in 2005 as part of the Cassini mission.","obscurity":4,"source_url":"https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens"},
+        {"name":"Hayabusa","aliases":["Hayabusa 1"],"fact":"Japan's Hayabusa mission returned samples from asteroid Itokawa.","explanation":"Its sample capsule returned to Earth in 2010, a first for an asteroid sample-return mission.","obscurity":4,"source_url":"https://global.jaxa.jp/projects/sas/muses_c/"},
+        {"name":"New Horizons","aliases":[],"fact":"New Horizons made the first close flyby of Pluto.","explanation":"NASA's spacecraft passed Pluto in July 2015 and later explored a Kuiper Belt object.","obscurity":2,"source_url":"https://science.nasa.gov/mission/new-horizons/"},
+        {"name":"Chang'e 4","aliases":["Chang'e-4","Chang'e 4 mission"],"fact":"Chang'e 4 made the first soft landing on the Moon's far side.","explanation":"The Chinese mission landed in the Von Kármán crater in January 2019.","obscurity":3,"source_url":"https://www.cnsa.gov.cn/english/n6465652/n6465653/c6810357/content.html"}
+      ]
+    },
+    {
+      "id": "world-currencies",
+      "category": "Geography",
+      "subcategory": "Currencies",
+      "prompt": "Name a currency used in a country outside the Eurozone.",
+      "rule": "Name the official currency listed for one of the countries in these entries. Some currencies are shared by multiple countries.",
+      "answers": [
+        {"name":"Japanese yen","aliases":["Yen","JPY"],"fact":"The yen is the official currency of Japan.","explanation":"Its name means 'round,' referring to the shape of coins.","obscurity":1,"source_url":"https://www.britannica.com/money/yen"},
+        {"name":"Swiss franc","aliases":["CHF"],"fact":"The Swiss franc is used in Switzerland and Liechtenstein.","explanation":"It is one of Europe's currencies that remained outside the euro.","obscurity":2,"source_url":"https://www.snb.ch/en/the-snb/mandates-goals/cash"},
+        {"name":"South African rand","aliases":["Rand","ZAR"],"fact":"The rand takes its name from the Witwatersrand ridge.","explanation":"Johannesburg and the region around it grew with the discovery of gold there.","obscurity":3,"source_url":"https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin"},
+        {"name":"Indian rupee","aliases":["Rupee","INR"],"fact":"The Indian rupee is issued by the Reserve Bank of India.","explanation":"The rupee symbol combines the Devanagari letter ra with the Latin letter R.","obscurity":1,"source_url":"https://www.rbi.org.in/"},
+        {"name":"Thai baht","aliases":["Baht","THB"],"fact":"The baht is Thailand's currency and is divided into 100 satang.","explanation":"The name is also used as a traditional unit of weight for gold in Thailand.","obscurity":2,"source_url":"https://www.bot.or.th/en/our-roles/banknotes.html"},
+        {"name":"Moroccan dirham","aliases":["Dirham","MAD"],"fact":"The Moroccan dirham is the currency of Morocco.","explanation":"The currency name derives from the ancient Greek drachma by way of Arabic.","obscurity":3,"source_url":"https://www.bkam.ma/en/Banknotes-and-coins"},
+        {"name":"Icelandic króna","aliases":["Icelandic krona","Krona","ISK"],"fact":"The Icelandic króna is divided into 100 aurar, though subdivisions are not used in practice.","explanation":"Króna is related to the word for crown, as are several Nordic currency names.","obscurity":3,"source_url":"https://www.cb.is/"},
+        {"name":"Mexican peso","aliases":["Peso","MXN"],"fact":"The Mexican peso is one of the world's most-traded currencies.","explanation":"The peso name is also used by several other countries, but their pesos are distinct currencies.","obscurity":1,"source_url":"https://www.banxico.org.mx/"},
+        {"name":"South Korean won","aliases":["Won","KRW"],"fact":"The South Korean won is the Republic of Korea's currency.","explanation":"The modern won is subdivided into 100 jeon, although jeon are not commonly used in daily prices.","obscurity":2,"source_url":"https://www.bok.or.kr/eng/main/main.do"},
+        {"name":"Botswana pula","aliases":["Pula","BWP"],"fact":"Pula means 'rain' in Setswana.","explanation":"The currency name reflects the importance of rainfall in Botswana's dry climate.","obscurity":4,"source_url":"https://www.bankofbotswana.bw/"} 
+      ]
+    },
+    {
+      "id": "film-directors",
+      "category": "Film",
+      "subcategory": "Directors",
+      "prompt": "Name a film director associated with a distinctive cinematic style.",
+      "rule": "Name a director listed here; the explanation identifies a recognizable style, technique, or body of work.",
+      "answers": [
+        {"name":"Agnès Varda","aliases":["Agnes Varda"],"fact":"Agnès Varda was a key figure associated with the French New Wave.","explanation":"Her films often combined documentary observation with inventive, personal storytelling.","obscurity":3,"source_url":"https://www.bfi.org.uk/people/agnes-varda"},
+        {"name":"Akira Kurosawa","aliases":[],"fact":"Akira Kurosawa's Rashomon popularized a story told through conflicting accounts.","explanation":"The film's narrative structure later inspired what is often called the Rashomon effect.","obscurity":2,"source_url":"https://www.britannica.com/biography/Kurosawa-Akira"},
+        {"name":"Satyajit Ray","aliases":[],"fact":"Satyajit Ray's Apu Trilogy is a landmark of Indian cinema.","explanation":"The three films follow Apu from childhood into adulthood and earned international acclaim.","obscurity":2,"source_url":"https://www.britannica.com/biography/Satyajit-Ray"},
+        {"name":"Andrei Tarkovsky","aliases":["Andrey Tarkovsky"],"fact":"Andrei Tarkovsky is known for long takes and contemplative imagery.","explanation":"Films such as Stalker and Solaris explore memory, faith, and time at a deliberate pace.","obscurity":3,"source_url":"https://www.britannica.com/biography/Andrey-Arsenyevich-Tarkovsky"},
+        {"name":"Hayao Miyazaki","aliases":[],"fact":"Hayao Miyazaki co-founded Studio Ghibli.","explanation":"The Japanese animator directed films including Spirited Away and My Neighbor Totoro.","obscurity":1,"source_url":"https://www.britannica.com/biography/Miyazaki-Hayao"},
+        {"name":"Chantal Akerman","aliases":[],"fact":"Chantal Akerman's Jeanne Dielman is renowned for its rigorous real-time structure.","explanation":"The film observes domestic routines with unusually sustained shots and was directed by Akerman at age 25.","obscurity":4,"source_url":"https://www.bfi.org.uk/people/chantal-akerman"},
+        {"name":"Wong Kar-wai","aliases":["Kar Wai Wong"],"fact":"Wong Kar-wai is known for expressive color, music, and step-printing.","explanation":"In the Mood for Love is one of the Hong Kong director's most celebrated films.","obscurity":2,"source_url":"https://www.britannica.com/biography/Wong-Kar-wai"},
+        {"name":"Bong Joon-ho","aliases":["Joon-ho Bong"],"fact":"Bong Joon-ho's Parasite became the first non-English-language film to win Best Picture.","explanation":"The South Korean director blends genre shifts with social commentary.","obscurity":1,"source_url":"https://www.oscars.org/oscars/ceremonies/2020"},
+        {"name":"Ousmane Sembène","aliases":["Ousmane Sembene"],"fact":"Ousmane Sembène is often called a father of African cinema.","explanation":"The Senegalese filmmaker's films, including Black Girl, examined colonialism and social change.","obscurity":4,"source_url":"https://www.britannica.com/biography/Ousmane-Sembene"},
+        {"name":"Mira Nair","aliases":[],"fact":"Mira Nair directed Salaam Bombay!, which received an Academy Award nomination for foreign-language film.","explanation":"The Indian-American director's work often moves between cultures and countries.","obscurity":3,"source_url":"https://www.britannica.com/biography/Mira-Nair"}
+      ]
+    },
+    {
+      "id": "natural-wonders",
+      "category": "General Knowledge",
+      "subcategory": "Natural world",
+      "prompt": "Name a natural feature known for an unusual geological or ecological property.",
+      "rule": "Name a listed natural feature; its individual fact and explanation describe why it is notable.",
+      "answers": [
+        {"name":"Salar de Uyuni","aliases":["Uyuni Salt Flat"],"fact":"Salar de Uyuni is the world's largest salt flat.","explanation":"During the rainy season, a thin layer of water can turn its surface into a vast natural mirror.","obscurity":2,"source_url":"https://www.britannica.com/place/Salar-de-Uyuni"},
+        {"name":"Socotra","aliases":["Socotra Archipelago"],"fact":"Socotra is known for many plant species found nowhere else.","explanation":"Its isolation in the Indian Ocean helped produce distinctive biodiversity, including the dragon's blood tree.","obscurity":3,"source_url":"https://whc.unesco.org/en/list/1263/"},
+        {"name":"Lake Baikal","aliases":["Baikal"],"fact":"Lake Baikal is the world's deepest freshwater lake.","explanation":"The Siberian lake also contains an unusually large share of Earth's unfrozen surface freshwater.","obscurity":2,"source_url":"https://whc.unesco.org/en/list/754/"},
+        {"name":"Waitomo Glowworm Caves","aliases":["Waitomo Caves"],"fact":"Glowworms illuminate the Waitomo caves in New Zealand.","explanation":"The larvae of Arachnocampa luminosa produce blue-green light to attract prey.","obscurity":3,"source_url":"https://www.waitomo.com/"},
+        {"name":"Richat Structure","aliases":["Eye of the Sahara"],"fact":"The Richat Structure is a huge circular geological formation in Mauritania.","explanation":"Its concentric rings are especially visible from space; it is a deeply eroded dome, not an impact crater.","obscurity":4,"source_url":"https://earthobservatory.nasa.gov/images/1510/richat-structure-mauritania"},
+        {"name":"Fly Geyser","aliases":["Fly Ranch Geyser"],"fact":"Fly Geyser's vivid mounds grew around a geothermal well in Nevada.","explanation":"Mineral-rich water and thermophilic algae contribute to its striking colors.","obscurity":4,"source_url":"https://www.burningman.org/"},
+        {"name":"Blood Falls","aliases":[],"fact":"Blood Falls is a red outflow from Taylor Glacier in Antarctica.","explanation":"Its iron-rich salty water turns reddish as dissolved iron oxidizes at the surface.","obscurity":4,"source_url":"https://nsf.gov/news/news_summ.jsp?cntn_id=129348"},
+        {"name":"Pamukkale","aliases":[],"fact":"Pamukkale's white terraces were formed by mineral-rich hot springs.","explanation":"The Turkish site is paired with the ancient spa city of Hierapolis on UNESCO's World Heritage List.","obscurity":3,"source_url":"https://whc.unesco.org/en/list/485/"},
+        {"name":"Dallol","aliases":["Dallol hydrothermal system"],"fact":"Dallol in Ethiopia has acidic hydrothermal pools and vivid mineral formations.","explanation":"Its salt structures, extreme heat, and colorful deposits make it a remarkable geological setting in the Danakil Depression.","obscurity":5,"source_url":"https://www.britannica.com/place/Danakil-Depression"},
+        {"name":"The Door to Hell","aliases":["Darvaza gas crater","Darvaza crater"],"fact":"The Darvaza gas crater in Turkmenistan is a burning natural-gas field.","explanation":"The crater formed after a drilling collapse in 1971; the familiar nickname refers to its persistent flames.","obscurity":4,"source_url":"https://www.britannica.com/place/Darvaza-gas-crater"}
+      ]
+    }
+  ]
+}
